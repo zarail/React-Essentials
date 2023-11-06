@@ -1,4 +1,4 @@
-// my 1st custom component:
+// my first custom component:
 
 function Header() {
   return (
